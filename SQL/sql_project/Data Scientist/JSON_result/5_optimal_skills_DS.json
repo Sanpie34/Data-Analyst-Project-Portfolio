@@ -1,0 +1,62 @@
+[
+  {
+    "skill_id": 1,
+    "skills": "python",
+    "demand_count": "763",
+    "salary_avg": "143828"
+  },
+  {
+    "skill_id": 0,
+    "skills": "sql",
+    "demand_count": "591",
+    "salary_avg": "142833"
+  },
+  {
+    "skill_id": 5,
+    "skills": "r",
+    "demand_count": "394",
+    "salary_avg": "137885"
+  },
+  {
+    "skill_id": 182,
+    "skills": "tableau",
+    "demand_count": "219",
+    "salary_avg": "146970"
+  },
+  {
+    "skill_id": 76,
+    "skills": "aws",
+    "demand_count": "217",
+    "salary_avg": "149630"
+  },
+  {
+    "skill_id": 92,
+    "skills": "spark",
+    "demand_count": "149",
+    "salary_avg": "150188"
+  },
+  {
+    "skill_id": 99,
+    "skills": "tensorflow",
+    "demand_count": "126",
+    "salary_avg": "151536"
+  },
+  {
+    "skill_id": 74,
+    "skills": "azure",
+    "demand_count": "122",
+    "salary_avg": "142306"
+  },
+  {
+    "skill_id": 101,
+    "skills": "pytorch",
+    "demand_count": "115",
+    "salary_avg": "152603"
+  },
+  {
+    "skill_id": 93,
+    "skills": "pandas",
+    "demand_count": "113",
+    "salary_avg": "144816"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "skills": "python",
+    "demand_count": "10443"
+  },
+  {
+    "skills": "sql",
+    "demand_count": "7520"
+  },
+  {
+    "skills": "r",
+    "demand_count": "4700"
+  },
+  {
+    "skills": "aws",
+    "demand_count": "2615"
+  },
+  {
+    "skills": "tableau",
+    "demand_count": "2465"
+  },
+  {
+    "skills": "sas",
+    "demand_count": "2220"
+  },
+  {
+    "skills": "spark",
+    "demand_count": "2021"
+  },
+  {
+    "skills": "azure",
+    "demand_count": "1928"
+  },
+  {
+    "skills": "pandas",
+    "demand_count": "1843"
+  },
+  {
+    "skills": "tensorflow",
+    "demand_count": "1840"
+  }
+]

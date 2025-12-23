@@ -1,0 +1,42 @@
+[
+  {
+    "skills": "sql",
+    "demand_count": "7346"
+  },
+  {
+    "skills": "excel",
+    "demand_count": "4638"
+  },
+  {
+    "skills": "python",
+    "demand_count": "4375"
+  },
+  {
+    "skills": "tableau",
+    "demand_count": "3772"
+  },
+  {
+    "skills": "power bi",
+    "demand_count": "2623"
+  },
+  {
+    "skills": "r",
+    "demand_count": "2163"
+  },
+  {
+    "skills": "sas",
+    "demand_count": "1878"
+  },
+  {
+    "skills": "looker",
+    "demand_count": "872"
+  },
+  {
+    "skills": "azure",
+    "demand_count": "827"
+  },
+  {
+    "skills": "powerpoint",
+    "demand_count": "823"
+  }
+]

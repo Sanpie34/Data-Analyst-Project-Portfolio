@@ -4,8 +4,6 @@ This repository is for a CV/LinkedIn Portfolio. This repository will contain pro
 ## Welcome to my Repository
 The purpose of this repository is to share my portfolio for applying work (CV/Resume/LinkedIn). This repository also acts as a storage and backup.
 
-### Check the other branch to see my portfolio
-
 ## Disclaimer
 This project uses Luke Barousse [Datanerd](https://datanerd.tech/) datasets. This project analysis approach was inspired by Luke Barousse's YouTube course.
 
